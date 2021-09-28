@@ -1,0 +1,35 @@
+h1 {
+    font-family: "Book Antiqua", sans-serif;
+    color:#067ca1;
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+}
+body{
+    background:linear-gradient(90deg, rgba(7,162,210,1) 0%, rgba(252,238,205,1) 65%);
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: relative;
+    top:50%;
+}
+
+.photograph {
+    position:;
+}
+/*
+.button {
+    background-color:#067ca1
+    border-radius: 50%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  };
+*/
